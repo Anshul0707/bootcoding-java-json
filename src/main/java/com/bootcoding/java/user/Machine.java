@@ -3,6 +3,7 @@ package com.bootcoding.java.user;
 public class Machine
 {
     private String name;
+
     private String logicalName;
 
     public String getName() {

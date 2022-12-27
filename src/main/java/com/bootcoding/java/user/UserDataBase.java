@@ -6,11 +6,13 @@ public class UserDataBase
 {
     public ArrayList<User> users;
 
-    public ArrayList<User> getUsers() {
+    public ArrayList<User> getUsers()
+    {
         return users;
     }
 
-    public void setUsers(ArrayList<User> users) {
+    public void setUsers(ArrayList<User> users)
+    {
         this.users = users;
     }
 }
